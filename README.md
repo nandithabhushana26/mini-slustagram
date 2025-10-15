@@ -39,9 +39,9 @@ npm run dev
 
 ### Screenshots
 
-* Screenshots/Part0_Project Created and Dev server.png
-* Screenshots/Part0_App running in browser.png
-* Screenshots/Part0_Confirming src:main.jsx uses createRoot.png
+![Screenshots/Part0_Project Created and Dev server.png](<Screenshots/Part0_Confirming src:main.jsx uses createRoot.png>)
+![Screenshots/Part0_App running in browser.png](<Screenshots/Part0_App running in browser.png>)
+![alt text](<Screenshots/Part0_Project Created and Dev server.png>) Screenshots/Part0_Confirming src:main.jsx uses createRoot.png
 
 
 ----------------------------
@@ -67,7 +67,7 @@ npm run dev
 
 ### Screenshot
 
-* Screenshots/Part1_DataModel.png
+![Screenshots/Part1_DataModel.png](Screenshots/Part1_DataModel.png)
 
 --------------------------------
 ## PART 2 – APP STATE & FEED
@@ -89,7 +89,7 @@ npm run dev
 
 ### Screenshot
 
-* Screenshots/Part2.png
+![alt text](Screenshots/Part2.png)
 
 ---------------------------------------------------------
 ## PART 3 – NAVBAR & POSTCARD (LIKES, CAPTION, IMAGE)
@@ -116,8 +116,8 @@ npm run dev
 
 ### Screenshots
 
-* Screenshots/Checkpoint_Part3_ConsoleClean.png
-* Screenshots/Checkpoint_Part3_StableApp.png
+![alt text](Screenshots/Checkpoint_Part3_ConsoleClean.png)
+![alt text](Screenshots/Checkpoint_Part3_StableApp.png)
 
 ------------------------------------------
 ## PART 4 – COMMENTS (CONTROLLED FORM)
@@ -140,11 +140,11 @@ npm run dev
 
 ### Screenshots
 
-* Screenshots/Part4_1_PostLiked.png
-* Screenshots/Part4_2_PostNotLiked.png
-* Screenshots/Part4_3_NewCommentVisible.png
-* Screenshots/Part4_4_Console_NoErrors.png
-* Screenshots/Part4_5_CommentLogs.png
+![alt text](Screenshots/Part4_1_PostLiked.png)
+![alt text](Screenshots/Part4_2_PostNotLiked.png)
+![alt text](Screenshots/Part4_3_NewCommentVisible.png)
+![alt text](Screenshots/Part4_4_Console_NoErrors.png)
+![alt text](Screenshots/Part4_5_CommentLogs.png)
 
 ------------------------------------------
 ## PART 5 – COMPOSER (NEW POST CREATION)
@@ -171,10 +171,9 @@ npm run dev
 
 ### Screenshots
 
-* Screenshots/Part5_1_ComposerVisible.png
-* Screenshots/Part5_2_ShareDisabled.png
-* Screenshots/Part5_3_NewPostAdded.png
-
+![alt text](Screenshots/Part5_1_ComposerVisible.png)
+![alt text](Screenshots/Part5_2_ShareDisabled.png)
+![alt text](Screenshots/Part5_3_NewPostAdded.png)
 -------------------------------------
 ## PART 6 – ROUTING & PERSISTENCE
 -------------------------------------
@@ -205,10 +204,9 @@ npm run dev
 
 ### Screenshots
 
-* Screenshots/Part6_HomeFeed_Routing.png
-* Screenshots/Part6_ProfileRoute_Alice_Page.png
-* Screenshots/Part6_ContainerRouting_DevTools.png
-
+![alt text](Screenshots/Part6_HomeFeed_Routing.png)
+![alt text](Screenshots/Part6_ProfileRoute_Alice_Page.png)
+![alt text](Screenshots/Part6_ContainerRouting_DevTools.png)
 
 ##  BUTTON HOVER & LIKE/UNLIKE CONFIRMATION
 
@@ -230,8 +228,8 @@ npm run dev
 
 ### Screenshots
 
-* Screenshots/Part6_ButtonHover_Highlight.png
-* Screenshots/Part6_LikeUnlike_Confirmation.png
+![alt text](Screenshots/Part6_ButtonHover_Highlight.png)
+![alt text](Screenshots/Part6_LikeUnlike_Confirmation.png)
 
 ---
 ---------------------------
@@ -267,7 +265,7 @@ mini-slustagram/
 
 ### Screenshot
 
-* Screenshots/Part7_ProjectStructure.png
+![git  ](Screenshots/Part7_ProjectStructure.png)
 
 ---
 
