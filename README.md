@@ -5,6 +5,7 @@
 **COURSE:** CSCI-4360 / CSCI-5360 – WEB TECHNOLOGIES
 **PROJECT:** MINI-SLUSTAGRAM
 
+LIVE SERVER:- https://nandithabhushana26.github.io/mini-slustagram/
 ------------------------------------------------------------------
 
 ## PART 0 – SETUP (PROJECT INITIALIZATION)
